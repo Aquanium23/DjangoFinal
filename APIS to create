@@ -1,0 +1,15 @@
+Possible APIs for final project:
+
+ACCOUNT
+1. User Registration (Done)
+2. User Login (Done)
+3. Account Activation ()
+4. User Profile Create and Update (Done)
+
+CORE
+1. Job List API (Done)
+2. Job Create (Done)
+3. Job Update (Done)
+4. Job Apply (Done)
+5. View Applied Jobs (Done)
+6. Contact Create and List (Done)
